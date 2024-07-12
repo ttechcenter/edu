@@ -25,7 +25,7 @@ body{
   padding: 0;
   box-sizing: border-box;
   background:linear-gradient(rgba(46, 46, 46, 0.822), rgba(78, 78, 78, 0.541)), 
-  url(/images/back7.jpg);
+  url(./back7.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 140vh;
