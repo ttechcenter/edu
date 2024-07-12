@@ -114,8 +114,7 @@ img {
 
 /*===============================NAVBAR====================================*/
 .landing{
-    background:linear-gradient(rgba(46, 46, 46, 0.822), rgba(78, 78, 78, 0.541)), 
-    url(./back6.avif);   
+    background:linear-gradient(rgba(46, 46, 46, 0.822), rgba(78, 78, 78, 0.541)),url(./images/back7.jpg);   
     height: 90vh;
     background-size: cover;
     background-repeat: no-repeat;
